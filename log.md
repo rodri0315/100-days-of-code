@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: January 3, 2017
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Setup app with devise gam and initial setup
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Not really familiar with Devise so I'm learning as I go, I still need to add some pages for users
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Available soon](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
